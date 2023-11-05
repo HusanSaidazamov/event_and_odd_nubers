@@ -5,3 +5,4 @@
 #Create a variable "sum_even" and assign it 0.
 
 #Find the sum of the odd digits in the variable "var_int".
+    var_int = var_int // 10  
